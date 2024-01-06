@@ -1,0 +1,5 @@
+C‰u l?nh ?? cˆi ??t email vˆ name lˆ g“?
+
+git config --global user.email "vovinhvtv @gmail.com" git config --global user.name "cutehotme1998"
+
+
